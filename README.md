@@ -39,8 +39,8 @@
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad Abrar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/Muhammad Abrar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad Abrar-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/abro_khaan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Muhammad Abrar-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:abrokhan149@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abrokhan149@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
