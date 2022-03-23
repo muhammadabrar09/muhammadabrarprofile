@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F608689705876819663%2F&psig=AOvVaw0IoPan_AFOEqOxeZvqnX-D&ust=1648137723880000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCGkNDN3PYCFQAAAAAdAAAAABAJ">
 
 <h2> Hey there! I'm Muhammad Abrar</h2>
 
@@ -30,10 +30,10 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<!-- <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 <br/>
 
