@@ -40,6 +40,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-abrar-b1347121b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad Abrar-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/abro_khaan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Muhammad Abrar-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:abrokhan149@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abrokhan149@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:abrarkhattak151@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abrarkhattak151@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
