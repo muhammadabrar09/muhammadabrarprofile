@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abro_khan_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abro_khan_21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad abrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abrar" height="30" width="40" /></a>
-<a href="https://fb.com/abrar khattak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar khattak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-abrar-0bb7b5231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abrar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Abrokhan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar khattak" height="30" width="40" /></a>
 <a href="https://instagram.com/abro_khaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abro_khaan" height="30" width="40" /></a>
 </p>
 
